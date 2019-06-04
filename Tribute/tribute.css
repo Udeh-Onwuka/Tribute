@@ -1,0 +1,17 @@
+html {
+    background-color: sandybrown;
+    font-size: 14px;
+    text-align: center;
+}
+
+body {
+    background-color: sandybrown;
+    margin: 0%;
+    width: auto;
+    padding: 15px;
+    border: 2px solid ghostwhite;
+    margin: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {}
